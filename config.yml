@@ -1,0 +1,11 @@
+# This value can be set to either ON or OFF, it controls whether the plugin will cause random drops to occur or not.
+toggle: ON
+
+# The chance of the player dropping an item. By default set to 100%, though make sure to omit the '%' sign.
+
+chance: 100
+
+# Items that can drop - check https://github.com/Bukkit/Bukkit/blob/master/src/main/java/org/bukkit/Material.java for valid names
+items:
+- GOLD_INGOT
+- MUSHROOM_SOUP

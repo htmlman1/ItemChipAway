@@ -1,0 +1,7 @@
+name: ItemChipAway
+version: 0.0.1-STABLE
+author: htmlman1
+description: Make your players drop random items when damaged!
+
+main: com.htmlman1.itemchipaway.Main
+database: false
